@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvearch_github"]=self["webpackChunkvearch_github"]||[]).push([[254],{8254:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var r=t(6768);function a(e,n){const t=(0,r.g2)("elements-api");return(0,r.uX)(),(0,r.Wv)(t,{apiDescriptionUrl:"https://raw.githubusercontent.com/wxingda/vearch-api/main/docs/openapi.yml"})}var c=t(1241);const i={},u=(0,c.A)(i,[["render",a]]);var s=u}}]);
+//# sourceMappingURL=254.fb380416.js.map
